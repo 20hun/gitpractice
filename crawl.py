@@ -11,3 +11,4 @@ for link in bsObject.find_all('a'):
 # for link in bsObject.find_all('img'):
 #     print(link.text.strip(), link.get('src'))
 
+# commit test
